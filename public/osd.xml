@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
 	<ShortName>An-Ting 安婷</ShortName>
-	<Description>Search An-Ting 安婷 - musician, composer, multidisciplinary artist</Description>
+	<Description>Search An-Ting 安婷 - electronic musician &amp; composer</Description>
 	<Contact>help@wordpress.com</Contact>
 	<Url type="application/atom+xml" template="https://anting.co.uk/?s={searchTerms}&amp;feed=atom" />
 	<Url type="rss+xml" template="https://anting.co.uk/?s={searchTerms}&amp;feed=rss2" />
