@@ -67,7 +67,7 @@ window.addEventListener( "message", function( e ) {
 					+ '&token=' + encodeURIComponent( data.token )
 					+ '&host=' + window.location.protocol
 					+ '//' + window.location.hostname
-					+ '&postid=1944'
+					+ '&postid=1988'
 					+ '&is_singular=';
 				document.body.appendChild( script );
 			}
@@ -157,7 +157,7 @@ window.addEventListener( "DOMContentLoaded", function( e ) {
 	document.body.appendChild( iframe );
 }, false );
 </script>
-<title>HOME X &#8211; An-Ting 安婷</title>
+<title>CAN X TWO TEMPLE PLACE DIGITAL EXHIBITION &amp; IMMERSIVE PERFORMANCE &#8211; An-Ting 安婷</title>
 <link rel='dns-prefetch' href='https://s2.wp.com/' />
 <link rel='dns-prefetch' href='https://s0.wp.com/' />
 <link rel='dns-prefetch' href='https://wordpress.com/' />
@@ -396,13 +396,13 @@ window.addEventListener( "DOMContentLoaded", function( e ) {
 .wp-block-post-featured-image{margin-left:0;margin-right:0}.wp-block-post-featured-image a{display:block;height:100%}.wp-block-post-featured-image :where(img){box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom;width:100%}.wp-block-post-featured-image.alignfull img,.wp-block-post-featured-image.alignwide img{width:100%}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim{background-color:#000;inset:0;position:absolute}.wp-block-post-featured-image{position:relative}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-gradient{background-color:initial}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-0{opacity:0}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-10{opacity:.1}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-20{opacity:.2}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-30{opacity:.3}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-40{opacity:.4}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-50{opacity:.5}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-60{opacity:.6}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-70{opacity:.7}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-80{opacity:.8}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-90{opacity:.9}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-100{opacity:1}.wp-block-post-featured-image:where(.alignleft,.alignright){width:100%}
 /*# sourceURL=https://s0.wp.com/wp-content/plugins/gutenberg-core/v22.9.0/build/styles/block-library/post-featured-image/style.min.css */
 </style>
-<style id="wp-block-heading-inline-css">
-h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
-/*# sourceURL=https://s0.wp.com/wp-content/plugins/gutenberg-core/v22.9.0/build/styles/block-library/heading/style.min.css */
-</style>
 <style id="wp-block-paragraph-inline-css">
 .is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
 /*# sourceURL=https://s0.wp.com/wp-content/plugins/gutenberg-core/v22.9.0/build/styles/block-library/paragraph/style.min.css */
+</style>
+<style id="wp-block-heading-inline-css">
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://s0.wp.com/wp-content/plugins/gutenberg-core/v22.9.0/build/styles/block-library/heading/style.min.css */
 </style>
 <style id="wp-block-embed-inline-css">
 .wp-block-embed.alignleft,.wp-block-embed.alignright,.wp-block[data-align=left]>[data-type="core/embed"],.wp-block[data-align=right]>[data-type="core/embed"]{max-width:360px;width:100%}.wp-block-embed.alignleft .wp-block-embed__wrapper,.wp-block-embed.alignright .wp-block-embed__wrapper,.wp-block[data-align=left]>[data-type="core/embed"] .wp-block-embed__wrapper,.wp-block[data-align=right]>[data-type="core/embed"] .wp-block-embed__wrapper{min-width:280px}.wp-block-cover .wp-block-embed{min-height:240px;min-width:320px}.wp-block-group.is-layout-flex .wp-block-embed{flex:1 1 0%;min-width:0}.wp-block-embed{overflow-wrap:break-word}.wp-block-embed :where(figcaption){margin-bottom:1em;margin-top:.5em}.wp-block-embed iframe{max-width:100%}.wp-block-embed__wrapper{position:relative}.wp-embed-responsive .wp-has-aspect-ratio .wp-block-embed__wrapper:before{content:"";display:block;padding-top:50%}.wp-embed-responsive .wp-has-aspect-ratio iframe{bottom:0;height:100%;left:0;position:absolute;right:0;top:0;width:100%}.wp-embed-responsive .wp-embed-aspect-21-9 .wp-block-embed__wrapper:before{padding-top:42.85%}.wp-embed-responsive .wp-embed-aspect-18-9 .wp-block-embed__wrapper:before{padding-top:50%}.wp-embed-responsive .wp-embed-aspect-16-9 .wp-block-embed__wrapper:before{padding-top:56.25%}.wp-embed-responsive .wp-embed-aspect-4-3 .wp-block-embed__wrapper:before{padding-top:75%}.wp-embed-responsive .wp-embed-aspect-1-1 .wp-block-embed__wrapper:before{padding-top:100%}.wp-embed-responsive .wp-embed-aspect-9-16 .wp-block-embed__wrapper:before{padding-top:177.77%}.wp-embed-responsive .wp-embed-aspect-1-2 .wp-block-embed__wrapper:before{padding-top:200%}
@@ -416,11 +416,6 @@ h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-backg
 .wp-block-buttons{box-sizing:border-box}.wp-block-buttons.is-vertical{flex-direction:column}.wp-block-buttons.is-vertical>.wp-block-button:last-child{margin-bottom:0}.wp-block-buttons>.wp-block-button{display:inline-block;margin:0}.wp-block-buttons.is-content-justification-left{justify-content:flex-start}.wp-block-buttons.is-content-justification-left.is-vertical{align-items:flex-start}.wp-block-buttons.is-content-justification-center{justify-content:center}.wp-block-buttons.is-content-justification-center.is-vertical{align-items:center}.wp-block-buttons.is-content-justification-right{justify-content:flex-end}.wp-block-buttons.is-content-justification-right.is-vertical{align-items:flex-end}.wp-block-buttons.is-content-justification-space-between{justify-content:space-between}.wp-block-buttons.aligncenter{text-align:center}.wp-block-buttons:not(.is-content-justification-space-between,.is-content-justification-right,.is-content-justification-left,.is-content-justification-center) .wp-block-button.aligncenter{margin-left:auto;margin-right:auto;width:100%}.wp-block-buttons[style*=text-decoration] .wp-block-button,.wp-block-buttons[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons .wp-block-button__link{width:100%}.wp-block-button.aligncenter{text-align:center}
 /*# sourceURL=https://s0.wp.com/wp-content/plugins/gutenberg-core/v22.9.0/build/styles/block-library/buttons/style.min.css */
 </style>
-<style id="wp-block-image-inline-css">
-.wp-block-image>a,.wp-block-image>figure>a{display:inline-block}.wp-block-image img{box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom}@media not (prefers-reduced-motion){.wp-block-image img.hide{visibility:hidden}.wp-block-image img.show{animation:show-content-image .4s}}.wp-block-image[style*=border-radius] img,.wp-block-image[style*=border-radius]>a{border-radius:inherit}.wp-block-image.has-custom-border img{box-sizing:border-box}.wp-block-image.aligncenter{text-align:center}.wp-block-image.alignfull>a,.wp-block-image.alignwide>a{width:100%}.wp-block-image.alignfull img,.wp-block-image.alignwide img{height:auto;width:100%}.wp-block-image .aligncenter,.wp-block-image .alignleft,.wp-block-image .alignright,.wp-block-image.aligncenter,.wp-block-image.alignleft,.wp-block-image.alignright{display:table}.wp-block-image .aligncenter>figcaption,.wp-block-image .alignleft>figcaption,.wp-block-image .alignright>figcaption,.wp-block-image.aligncenter>figcaption,.wp-block-image.alignleft>figcaption,.wp-block-image.alignright>figcaption{caption-side:bottom;display:table-caption}.wp-block-image .alignleft{float:left;margin:.5em 1em .5em 0}.wp-block-image .alignright{float:right;margin:.5em 0 .5em 1em}.wp-block-image .aligncenter{margin-left:auto;margin-right:auto}.wp-block-image :where(figcaption){margin-bottom:1em;margin-top:.5em}.wp-block-image.is-style-circle-mask img{border-radius:9999px}@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none){.wp-block-image.is-style-circle-mask img{border-radius:0;-webkit-mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-mode:alpha;-webkit-mask-position:center;mask-position:center;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain}}:root :where(.wp-block-image.is-style-rounded img,.wp-block-image .is-style-rounded img){border-radius:9999px}.wp-block-image figure{margin:0}.wp-lightbox-container{display:flex;flex-direction:column;position:relative}.wp-lightbox-container img{cursor:zoom-in}.wp-lightbox-container img:hover+button{opacity:1}.wp-lightbox-container button{align-items:center;backdrop-filter:blur(16px) saturate(180%);background-color:#5a5a5a40;border:none;border-radius:4px;cursor:zoom-in;display:flex;height:20px;justify-content:center;opacity:0;padding:0;position:absolute;right:16px;text-align:center;top:16px;width:20px;z-index:100}@media not (prefers-reduced-motion){.wp-lightbox-container button{transition:opacity .2s ease}}.wp-lightbox-container button:focus-visible{outline:3px auto #5a5a5a40;outline:3px auto -webkit-focus-ring-color;outline-offset:3px}.wp-lightbox-container button:hover{cursor:pointer;opacity:1}.wp-lightbox-container button:focus{opacity:1}.wp-lightbox-container button:focus,.wp-lightbox-container button:hover,.wp-lightbox-container button:not(:hover):not(:active):not(.has-background){background-color:#5a5a5a40;border:none}.wp-lightbox-overlay{box-sizing:border-box;cursor:zoom-out;height:100vh;left:0;overflow:hidden;position:fixed;top:0;visibility:hidden;width:100%;z-index:100000}.wp-lightbox-overlay .wp-lightbox-close-button{align-items:center;cursor:pointer;display:flex;font-family:inherit;gap:8px;justify-content:center;line-height:1;min-height:40px;min-width:40px;padding:0 4px;position:absolute;right:calc(env(safe-area-inset-right) + 16px);top:calc(env(safe-area-inset-top) + 16px);z-index:5000000}.wp-lightbox-overlay .wp-lightbox-close-button:focus,.wp-lightbox-overlay .wp-lightbox-close-button:hover,.wp-lightbox-overlay .wp-lightbox-close-button:not(:hover):not(:active):not(.has-background){background:none;border:none}.wp-lightbox-overlay .wp-lightbox-close-button:has(.wp-lightbox-close-text:not([hidden])) .wp-lightbox-close-icon svg{height:1em;width:1em}.wp-lightbox-overlay .wp-lightbox-close-icon svg{display:block}.wp-lightbox-overlay .wp-lightbox-navigation-button-next,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{align-items:center;bottom:16px;cursor:pointer;display:flex;font-family:inherit;gap:4px;justify-content:center;line-height:1;min-height:40px;min-width:40px;padding:0 8px;position:absolute;z-index:2000002}.wp-lightbox-overlay .wp-lightbox-navigation-button-next[hidden],.wp-lightbox-overlay .wp-lightbox-navigation-button-prev[hidden]{display:none}@media (min-width:960px){.wp-lightbox-overlay .wp-lightbox-navigation-button-next,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{bottom:50%;transform:translateY(-50%)}}.wp-lightbox-overlay .wp-lightbox-navigation-button-next:focus,.wp-lightbox-overlay .wp-lightbox-navigation-button-next:hover,.wp-lightbox-overlay .wp-lightbox-navigation-button-next:not(:hover):not(:active):not(.has-background),.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:focus,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:hover,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:not(:hover):not(:active):not(.has-background){background:none;border:none;padding:0 8px}.wp-lightbox-overlay .wp-lightbox-navigation-button-next:has(.wp-lightbox-navigation-text:not([hidden])) .wp-lightbox-navigation-icon svg,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:has(.wp-lightbox-navigation-text:not([hidden])) .wp-lightbox-navigation-icon svg{display:block;height:1.5em;width:1.5em}.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{left:calc(env(safe-area-inset-left) + 16px)}.wp-lightbox-overlay .wp-lightbox-navigation-button-next{right:calc(env(safe-area-inset-right) + 16px)}.wp-lightbox-overlay .wp-lightbox-navigation-icon svg{vertical-align:middle}.wp-lightbox-overlay .lightbox-image-container{height:var(--wp--lightbox-container-height);left:50%;overflow:hidden;position:absolute;top:50%;transform:translate(-50%,-50%);transform-origin:top left;width:var(--wp--lightbox-container-width);z-index:2000001}.wp-lightbox-overlay .wp-block-image{align-items:center;box-sizing:border-box;display:flex;height:100%;justify-content:center;margin:0;position:relative;transform-origin:0 0;width:100%;z-index:3000000}.wp-lightbox-overlay .wp-block-image img{height:var(--wp--lightbox-image-height);min-height:var(--wp--lightbox-image-height);min-width:var(--wp--lightbox-image-width);width:var(--wp--lightbox-image-width)}.wp-lightbox-overlay .wp-block-image figcaption{display:none}.wp-lightbox-overlay button{background:none;border:none}.wp-lightbox-overlay .scrim{background-color:#fff;height:100%;opacity:.9;position:absolute;width:100%;z-index:2000000}.wp-lightbox-overlay.active{visibility:visible}@media not (prefers-reduced-motion){.wp-lightbox-overlay.active{animation:turn-on-visibility .25s both}.wp-lightbox-overlay.active img{animation:turn-on-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active){animation:turn-off-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active) img{animation:turn-off-visibility .25s both}.wp-lightbox-overlay.zoom.active{animation:none;opacity:1;visibility:visible}.wp-lightbox-overlay.zoom.active .lightbox-image-container{animation:lightbox-zoom-in .4s}.wp-lightbox-overlay.zoom.active .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.active .scrim{animation:turn-on-visibility .4s forwards}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active){animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container{animation:lightbox-zoom-out .4s}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .scrim{animation:turn-off-visibility .4s forwards}}@keyframes show-content-image{0%{visibility:hidden}99%{visibility:hidden}to{visibility:visible}}@keyframes turn-on-visibility{0%{opacity:0}to{opacity:1}}@keyframes turn-off-visibility{0%{opacity:1;visibility:visible}99%{opacity:0;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes lightbox-zoom-in{0%{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale))}to{transform:translate(-50%,-50%) scale(1)}}@keyframes lightbox-zoom-out{0%{transform:translate(-50%,-50%) scale(1);visibility:visible}99%{visibility:visible}to{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale));visibility:hidden}}
-/*# sourceURL=https://s0.wp.com/wp-content/plugins/gutenberg-core/v22.9.0/build/styles/block-library/image/style.min.css */
-</style>
-<link crossorigin='anonymous' rel='stylesheet' id='all-css-30-1' href='../_static/index.html%3F%3F-eJyNjMEKgzAQBX+o9hGQBg%252FFTxFdF0lMdoOb4O9Loe3Z4wzD4CwdqVSWity6ktoWxBC5lpn2LyOrCqYghCUp7QY7Q+HjSWYP3D9kXVtiA82HNuP0j37iMxzz23nvXs4PvYsXKQ87bw==&amp;cssminify=yes.css' type='text/css' media='all' />
 <style id="wp-block-post-content-inline-css">
 .wp-block-post-content{display:flow-root}
 /*# sourceURL=https://s0.wp.com/wp-content/plugins/gutenberg-core/v22.9.0/build/styles/block-library/post-content/style.min.css */
@@ -433,8 +428,11 @@ h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-backg
 .is-style-compact .is-not-subscriber .wp-block-button__link,.is-style-compact .is-not-subscriber .wp-block-jetpack-subscriptions__button{border-end-start-radius:0!important;border-start-start-radius:0!important;margin-inline-start:0!important}.is-style-compact .is-not-subscriber .components-text-control__input,.is-style-compact .is-not-subscriber p#subscribe-email input[type=email]{border-end-end-radius:0!important;border-start-end-radius:0!important}.is-style-compact:not(.wp-block-jetpack-subscriptions__use-newline) .components-text-control__input{border-inline-end-width:0!important}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form-container{display:flex;flex-direction:column}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline:not(.wp-block-jetpack-subscriptions__use-newline) .is-not-subscriber .wp-block-jetpack-subscriptions__form-elements{align-items:flex-start;display:flex}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline:not(.wp-block-jetpack-subscriptions__use-newline) p#subscribe-submit{display:flex;justify-content:center}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form .wp-block-jetpack-subscriptions__button,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form .wp-block-jetpack-subscriptions__textfield .components-text-control__input,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form button,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form input[type=email],.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form .wp-block-jetpack-subscriptions__button,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form .wp-block-jetpack-subscriptions__textfield .components-text-control__input,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form button,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form input[type=email]{box-sizing:border-box;cursor:pointer;line-height:1.3;min-width:auto!important;white-space:nowrap!important}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form input[type=email]::placeholder,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form input[type=email]:disabled,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form input[type=email]::placeholder,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form input[type=email]:disabled{color:currentColor;opacity:.5}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form .wp-block-jetpack-subscriptions__button,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form button,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form .wp-block-jetpack-subscriptions__button,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form button{border-color:#0000;border-style:solid}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form .wp-block-jetpack-subscriptions__textfield,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form p#subscribe-email,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form .wp-block-jetpack-subscriptions__textfield,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form p#subscribe-email{background:#0000;flex-grow:1}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form .wp-block-jetpack-subscriptions__textfield .components-base-control__field,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form .wp-block-jetpack-subscriptions__textfield .components-text-control__input,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form .wp-block-jetpack-subscriptions__textfield input[type=email],.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form p#subscribe-email .components-base-control__field,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form p#subscribe-email .components-text-control__input,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form p#subscribe-email input[type=email],.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form .wp-block-jetpack-subscriptions__textfield .components-base-control__field,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form .wp-block-jetpack-subscriptions__textfield .components-text-control__input,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form .wp-block-jetpack-subscriptions__textfield input[type=email],.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form p#subscribe-email .components-base-control__field,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form p#subscribe-email .components-text-control__input,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form p#subscribe-email input[type=email]{height:auto;margin:0;width:100%}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form p#subscribe-email,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline .wp-block-jetpack-subscriptions__form p#subscribe-submit,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form p#subscribe-email,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline form p#subscribe-submit{line-height:0;margin:0;padding:0}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline.wp-block-jetpack-subscriptions__show-subs .wp-block-jetpack-subscriptions__subscount{font-size:16px;margin:8px 0;text-align:end}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline.wp-block-jetpack-subscriptions__use-newline .wp-block-jetpack-subscriptions__form-elements{display:block}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline.wp-block-jetpack-subscriptions__use-newline .wp-block-jetpack-subscriptions__button,.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline.wp-block-jetpack-subscriptions__use-newline button{display:inline-block;max-width:100%}.wp-block-jetpack-subscriptions.wp-block-jetpack-subscriptions__supports-newline.wp-block-jetpack-subscriptions__use-newline .wp-block-jetpack-subscriptions__subscount{text-align:start}#subscribe-submit.is-link{text-align:center;width:auto!important}#subscribe-submit.is-link a{margin-left:0!important;margin-top:0!important;width:auto!important}@keyframes jetpack-memberships_button__spinner-animation{to{transform:rotate(1turn)}}.jetpack-memberships-spinner{display:none;height:1em;margin:0 0 0 5px;width:1em}.jetpack-memberships-spinner svg{height:100%;margin-bottom:-2px;width:100%}.jetpack-memberships-spinner-rotating{animation:jetpack-memberships_button__spinner-animation .75s linear infinite;transform-origin:center}.is-loading .jetpack-memberships-spinner{display:inline-block}body.jetpack-memberships-modal-open{overflow:hidden}dialog.jetpack-memberships-modal{opacity:1}dialog.jetpack-memberships-modal,dialog.jetpack-memberships-modal iframe{background:#0000;border:0;bottom:0;box-shadow:none;height:100%;left:0;margin:0;padding:0;position:fixed;right:0;top:0;width:100%}dialog.jetpack-memberships-modal::backdrop{background-color:#000;opacity:.7;transition:opacity .2s ease-out}dialog.jetpack-memberships-modal.is-loading,dialog.jetpack-memberships-modal.is-loading::backdrop{opacity:0}
 /*# sourceURL=/wp-content/mu-plugins/jetpack-plugin/moon/_inc/blocks/subscriptions/view.css?minify=false */
 </style>
-<link crossorigin='anonymous' rel='stylesheet' id='all-css-36-1' href='../wp-content/plugins/gutenberg-blocks/jetpack-layout-grid/style.css%3Fm=1643200914i&amp;cssminify=yes.css' type='text/css' media='all' />
-<link crossorigin='anonymous' rel='stylesheet' id='all-css-38-1' href='../wp-content/plugins/gutenberg-core/v22.9.0/build/styles/block-library/social-links/style.min.css%3Fm=1775747584i&amp;cssminify=yes.css' type='text/css' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-34-1' href='../wp-content/plugins/gutenberg-blocks/jetpack-layout-grid/style.css%3Fm=1643200914i&amp;cssminify=yes.css' type='text/css' media='all' />
+<style id="wp-block-social-links-inline-css">
+.wp-block-social-links{background:none;box-sizing:border-box;margin-left:0;padding-left:0;padding-right:0;text-indent:0}.wp-block-social-links .wp-social-link a,.wp-block-social-links .wp-social-link a:hover{border-bottom:0;box-shadow:none;text-decoration:none}.wp-block-social-links .wp-social-link svg{height:1em;width:1em}.wp-block-social-links .wp-social-link span:not(.screen-reader-text){font-size:.65em;margin-left:.5em;margin-right:.5em}.wp-block-social-links.has-small-icon-size{font-size:16px}.wp-block-social-links,.wp-block-social-links.has-normal-icon-size{font-size:24px}.wp-block-social-links.has-large-icon-size{font-size:36px}.wp-block-social-links.has-huge-icon-size{font-size:48px}.wp-block-social-links.aligncenter{display:flex;justify-content:center}.wp-block-social-links.alignright{justify-content:flex-end}.wp-block-social-link{border-radius:9999px;display:block}@media not (prefers-reduced-motion){.wp-block-social-link{transition:transform .1s ease}}.wp-block-social-link{height:auto}.wp-block-social-link a{align-items:center;display:flex;line-height:0}.wp-block-social-link:hover{transform:scale(1.1)}.wp-block-social-links .wp-block-social-link.wp-social-link{display:inline-block;margin:0;padding:0}.wp-block-social-links .wp-block-social-link.wp-social-link .wp-block-social-link-anchor,.wp-block-social-links .wp-block-social-link.wp-social-link .wp-block-social-link-anchor svg,.wp-block-social-links .wp-block-social-link.wp-social-link .wp-block-social-link-anchor:active,.wp-block-social-links .wp-block-social-link.wp-social-link .wp-block-social-link-anchor:hover,.wp-block-social-links .wp-block-social-link.wp-social-link .wp-block-social-link-anchor:visited{fill:currentColor;color:currentColor}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link{background-color:#f0f0f0;color:#444}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-amazon{background-color:#f90;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-bandcamp{background-color:#1ea0c3;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-behance{background-color:#0757fe;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-bluesky{background-color:#0a7aff;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-codepen{background-color:#1e1f26;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-deviantart{background-color:#02e49b;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-discord{background-color:#5865f2;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-dribbble{background-color:#e94c89;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-dropbox{background-color:#4280ff;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-etsy{background-color:#f45800;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-facebook{background-color:#0866ff;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-fivehundredpx{background-color:#000;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-flickr{background-color:#0461dd;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-foursquare{background-color:#e65678;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-github{background-color:#24292d;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-goodreads{background-color:#eceadd;color:#382110}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-google{background-color:#ea4434;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-gravatar{background-color:#1d4fc4;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-instagram{background-color:#f00075;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-lastfm{background-color:#e21b24;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-linkedin{background-color:#0d66c2;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-mastodon{background-color:#3288d4;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-medium{background-color:#000;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-meetup{background-color:#f6405f;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-patreon{background-color:#000;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-pinterest{background-color:#e60122;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-pocket{background-color:#ef4155;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-reddit{background-color:#ff4500;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-skype{background-color:#0478d7;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-snapchat{stroke:#000;background-color:#fefc00;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-soundcloud{background-color:#ff5600;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-spotify{background-color:#1bd760;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-telegram{background-color:#2aabee;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-threads{background-color:#000;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-tiktok{background-color:#000;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-tumblr{background-color:#011835;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-twitch{background-color:#6440a4;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-twitter{background-color:#1da1f2;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-vimeo{background-color:#1eb7ea;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-vk{background-color:#4680c2;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-wordpress{background-color:#3499cd;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-whatsapp{background-color:#25d366;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-x{background-color:#000;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-yelp{background-color:#d32422;color:#fff}:where(.wp-block-social-links:not(.is-style-logos-only)) .wp-social-link-youtube{background-color:red;color:#fff}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link{background:none}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link svg{height:1.25em;width:1.25em}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-amazon{color:#f90}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-bandcamp{color:#1ea0c3}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-behance{color:#0757fe}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-bluesky{color:#0a7aff}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-codepen{color:#1e1f26}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-deviantart{color:#02e49b}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-discord{color:#5865f2}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-dribbble{color:#e94c89}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-dropbox{color:#4280ff}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-etsy{color:#f45800}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-facebook{color:#0866ff}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-fivehundredpx{color:#000}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-flickr{color:#0461dd}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-foursquare{color:#e65678}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-github{color:#24292d}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-goodreads{color:#382110}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-google{color:#ea4434}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-gravatar{color:#1d4fc4}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-instagram{color:#f00075}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-lastfm{color:#e21b24}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-linkedin{color:#0d66c2}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-mastodon{color:#3288d4}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-medium{color:#000}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-meetup{color:#f6405f}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-patreon{color:#000}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-pinterest{color:#e60122}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-pocket{color:#ef4155}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-reddit{color:#ff4500}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-skype{color:#0478d7}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-snapchat{stroke:#000;color:#fff}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-soundcloud{color:#ff5600}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-spotify{color:#1bd760}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-telegram{color:#2aabee}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-threads{color:#000}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-tiktok{color:#000}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-tumblr{color:#011835}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-twitch{color:#6440a4}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-twitter{color:#1da1f2}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-vimeo{color:#1eb7ea}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-vk{color:#4680c2}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-whatsapp{color:#25d366}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-wordpress{color:#3499cd}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-x{color:#000}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-yelp{color:#d32422}:where(.wp-block-social-links.is-style-logos-only) .wp-social-link-youtube{color:red}.wp-block-social-links.is-style-pill-shape .wp-social-link{width:auto}:root :where(.wp-block-social-links .wp-social-link a){padding:.25em}:root :where(.wp-block-social-links.is-style-logos-only .wp-social-link a){padding:0}:root :where(.wp-block-social-links.is-style-pill-shape .wp-social-link a){padding-left:.6666666667em;padding-right:.6666666667em}.wp-block-social-links:not(.has-icon-color):not(.has-icon-background-color) .wp-social-link-snapchat .wp-block-social-link-label{color:#000}
+/*# sourceURL=https://s0.wp.com/wp-content/plugins/gutenberg-core/v22.9.0/build/styles/block-library/social-links/style.min.css */
+</style>
 <style id="wp-emoji-styles-inline-css">
 
 	img.wp-smiley, img.emoji {
@@ -475,7 +473,7 @@ h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-backg
 /*# sourceURL=global-styles-inline-css */
 </style>
 <style id="core-block-supports-inline-css">
-.wp-container-core-navigation-is-layout-4fecc76d{justify-content:flex-end;}.wp-container-core-group-is-layout-f39a4cb0{justify-content:space-between;}.wp-container-core-buttons-is-layout-2ed8b2ae{justify-content:space-between;}.wp-container-core-post-content-is-layout-c174671a > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1000px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-post-content-is-layout-c174671a > .alignwide{max-width:1000px;}.wp-container-core-post-content-is-layout-c174671a .alignfull{max-width:none;}.wp-elements-668d67d5a324892ff795a81df61740c7 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--background);}
+.wp-container-core-navigation-is-layout-4fecc76d{justify-content:flex-end;}.wp-container-core-group-is-layout-f39a4cb0{justify-content:space-between;}.wp-container-core-post-content-is-layout-c174671a > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:1000px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-post-content-is-layout-c174671a > .alignwide{max-width:1000px;}.wp-container-core-post-content-is-layout-c174671a .alignfull{max-width:none;}.wp-elements-668d67d5a324892ff795a81df61740c7 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--background);}
 /*# sourceURL=core-block-supports-inline-css */
 </style>
 <link crossorigin='anonymous' rel='stylesheet' id='all-css-48-1' href='../_static/index.html%3F%3F-eJx9jtEOgjAMRX%252FIWQkm8GL8lrGUWdlWwroQ%252F96KUVET3nrPdtoL82gcJ8EkEIsZQ%252FGUMjiOUZEJNKCm%252FEP2SnZAkFhI7fweng+rnXLBqBvG0kEX2A2dzQg2ZxSFnG49hbAlWRE7vYSF%252F%252F1e1Z5Qj3gd%252FdL5E7ckj2y0mhXi9BVMHyxND%252FUcT1VTN%252FWxPbTV9Q6RNHMZ&amp;cssm.css' type='text/css' media='all' />
@@ -485,7 +483,7 @@ h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-backg
 </style>
 <link crossorigin='anonymous' rel='stylesheet' id='all-css-50-1' href='../_static/index.html%3F%3F-eJyNjcEKAjEMRH%252FIGlcqPYmfIt20tF3TpJiWxb%252FXFS%252FixcswD4Y3sDaDwj1yhzpMo5EKKyyxN4+3D0MV2SIMigqa%252FT0GH8LjXQunParu4H%252FTtTDCPAoFUMHiyZAk0S%252F4cfYc6+s9W0gks6dtcKnnyTl7stPh6JYnG8BLYw==&amp;cssminify=yes.css' type='text/css' media='all' />
 <script id="wpcom-actionbar-placeholder-js-extra">
-var actionbardata = {"siteID":"100046530","postID":"1944","siteURL":"https://anting.co.uk","xhrURL":"https://anting.co.uk/wp-admin/admin-ajax.php","nonce":"ebc415e9ef","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https://s0.wp.com/wp-content/js/wpcom-proxy-request.js?m=1513050504i&amp;ver=20211021","shortlink":"https://wp.me/P6LMFI-vm","i18n":{"followedText":"New posts from this site will now appear in your \u003Ca href=\"https://wordpress.com/reader\"\u003EReader\u003C/a\u003E","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","shortLinkCopied":"Shortlink copied to clipboard."}};
+var actionbardata = {"siteID":"100046530","postID":"1988","siteURL":"https://anting.co.uk","xhrURL":"https://anting.co.uk/wp-admin/admin-ajax.php","nonce":"ebc415e9ef","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https://s0.wp.com/wp-content/js/wpcom-proxy-request.js?m=1513050504i&amp;ver=20211021","shortlink":"https://wp.me/P6LMFI-w4","i18n":{"followedText":"New posts from this site will now appear in your \u003Ca href=\"https://wordpress.com/reader\"\u003EReader\u003C/a\u003E","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","shortLinkCopied":"Shortlink copied to clipboard."}};
 //# sourceURL=wpcom-actionbar-placeholder-js-extra
 </script>
 <script id="jetpack-blocks-assets-base-url-js-before">
@@ -504,24 +502,24 @@ var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s1.wp.com/wp-content/mu-pl
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://antingchangdotcom.wordpress.com/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress.com" />
 <link rel="canonical" href="index.html" />
-<link rel='shortlink' href='https://wp.me/P6LMFI-vm' />
-<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fanting.co.uk%2Fhome-x%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fanting.co.uk%2Fhome-x%2F&amp;for=wpcom-auto-discovery" />
+<link rel='shortlink' href='https://wp.me/P6LMFI-w4' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fanting.co.uk%2Fcan-x-two-temple-place-digital-exhibition-immersive-performance%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fanting.co.uk%2Fcan-x-two-temple-place-digital-exhibition-immersive-performance%2F&amp;for=wpcom-auto-discovery" />
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="article" />
-<meta property="og:title" content="HOME X" />
-<meta property="og:url" content="https://anting.co.uk/home-x/" />
-<meta property="og:description" content="HOME X is a live performance meeting cutting edge technology that combines theatre, music, gaming and VR technology created with artists in London and Hong Kong Presented at the London Barbican, Yo…" />
-<meta property="article:published_time" content="2025-02-09T08:51:03+00:00" />
-<meta property="article:modified_time" content="2025-06-22T18:11:39+00:00" />
+<meta property="og:title" content="CAN X TWO TEMPLE PLACE DIGITAL EXHIBITION &amp; IMMERSIVE PERFORMANCE" />
+<meta property="og:url" content="https://anting.co.uk/can-x-two-temple-place-digital-exhibition-immersive-performance/" />
+<meta property="og:description" content="Mixing gaming and 3D technology, this experimental 45 minute production mixes original music, virtual performances and a new script exploring the migrant experience, from the poorest of Chinese sai…" />
+<meta property="article:published_time" content="2025-02-09T10:00:31+00:00" />
+<meta property="article:modified_time" content="2025-02-09T11:39:52+00:00" />
 <meta property="og:site_name" content="An-Ting 安婷" />
-<meta property="og:image" content="https://i0.wp.com/anting.co.uk/wp-content/uploads/2025/02/home-x-credit_-lidia-crisafulli.jpg?fit=1200%2C801&#038;ssl=1" />
+<meta property="og:image" content="https://i0.wp.com/anting.co.uk/wp-content/uploads/2025/02/2-photo-credit_-ian-gallagher.png?fit=1200%2C675&#038;ssl=1" />
 <meta property="og:image:width" content="1200" />
-<meta property="og:image:height" content="801" />
+<meta property="og:image:height" content="675" />
 <meta property="og:image:alt" content="" />
 <meta property="og:locale" content="en_US" />
 <meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
-<meta name="twitter:text:title" content="HOME X" />
-<meta name="twitter:image" content="https://i0.wp.com/anting.co.uk/wp-content/uploads/2025/02/home-x-credit_-lidia-crisafulli.jpg?fit=1200%2C801&#038;ssl=1&#038;w=640" />
+<meta name="twitter:text:title" content="CAN X TWO TEMPLE PLACE DIGITAL EXHIBITION &amp; IMMERSIVE&nbsp;PERFORMANCE" />
+<meta name="twitter:image" content="https://i0.wp.com/anting.co.uk/wp-content/uploads/2025/02/2-photo-credit_-ian-gallagher.png?fit=1200%2C675&#038;ssl=1&#038;w=640" />
 <meta name="twitter:card" content="summary_large_image" />
 
 <!-- End Jetpack Open Graph Tags -->
@@ -533,14 +531,14 @@ var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s1.wp.com/wp-content/mu-pl
 {"imports":{"@wordpress/interactivity":"https://s1.wp.com/wp-content/plugins/gutenberg-core/v22.9.0/build/modules/interactivity/index.min.js?m=1775747584i&ver=4d2a3a72c7410d548881"}}
 </script>
 <link rel="modulepreload" href="https://s1.wp.com/wp-content/plugins/gutenberg-core/v22.9.0/build/modules/interactivity/index.min.js?m=1775747584i&#038;ver=4d2a3a72c7410d548881" id="@wordpress/interactivity-js-modulepreload" fetchpriority="low">
-<meta name="description" content="HOME X is a live performance meeting cutting edge technology that combines theatre, music, gaming and VR technology created with artists in London and Hong Kong Presented at the London Barbican, York Theatre Royal and Cambridge Junction in 2023, HOME X is co-produced by Kakilang (formerly Chinese Arts Now) and Don&#039;t Believe in Style and&hellip;" />
+<meta name="description" content="Mixing gaming and 3D technology, this experimental 45 minute production mixes original music, virtual performances and a new script exploring the migrant experience, from the poorest of Chinese sailors who jumped ship in the East End, to the richest of men like William Waldorf Astor Every dollar is a soldier/with money you’re a dragon is&hellip;" />
 <link rel="icon" href="../wp-content/uploads/2022/05/logo-black.png%3Fw=29" sizes="32x32" />
 <link rel="icon" href="../wp-content/uploads/2022/05/logo-black.png%3Fw=173" sizes="192x192" />
 <link rel="apple-touch-icon" href="../wp-content/uploads/2022/05/logo-black.png%3Fw=162" />
 <meta name="msapplication-TileImage" content="https://anting.co.uk/wp-content/uploads/2022/05/logo-black.png?w=243" />
 </head>
 
-<body class="wp-singular page-template-default page page-id-1944 wp-custom-logo wp-embed-responsive wp-theme-pubblockbase wp-child-theme-pubattar is-block-theme customizer-styles-applied jetpack-reblog-enabled">
+<body class="wp-singular page-template-default page page-id-1988 wp-custom-logo wp-embed-responsive wp-theme-pubblockbase wp-child-theme-pubattar is-block-theme customizer-styles-applied jetpack-reblog-enabled">
 
 <a class="skip-link screen-reader-text" id="wp-skip-link" href="index.html#wp--skip-link--target">Skip to content</a><div class="wp-site-blocks"><header class="wp-block-template-part">
 <div class="wp-block-group gapless-group is-layout-constrained wp-block-group-is-layout-constrained">
@@ -587,66 +585,28 @@ var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s1.wp.com/wp-content/mu-pl
 </header>
 
 
-<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained"><h2 class="wp-block-post-title">HOME X</h2></div>
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained"><h2 class="wp-block-post-title">CAN X TWO TEMPLE PLACE DIGITAL EXHIBITION &amp; IMMERSIVE&nbsp;PERFORMANCE</h2></div>
 
 
 
-<main id="wp--skip-link--target" class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><figure class="alignfull wp-block-post-featured-image"><img width="1024" height="683" src="../wp-content/uploads/2025/02/home-x-credit_-lidia-crisafulli.jpg%3Fw=1024" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="object-fit:cover;" decoding="async" srcset="../wp-content/uploads/2025/02/home-x-credit_-lidia-crisafulli.jpg%3Fw=1024 1024w, ../wp-content/uploads/2025/02/home-x-credit_-lidia-crisafulli.jpg%3Fw=2048 2048w, ../wp-content/uploads/2025/02/home-x-credit_-lidia-crisafulli.jpg%3Fw=150 150w, ../wp-content/uploads/2025/02/home-x-credit_-lidia-crisafulli.jpg%3Fw=300 300w, ../wp-content/uploads/2025/02/home-x-credit_-lidia-crisafulli.jpg%3Fw=768 768w, ../wp-content/uploads/2025/02/home-x-credit_-lidia-crisafulli.jpg%3Fw=1440 1440w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="1947" data-permalink="https://anting.co.uk/home-x/home-x-credit_-lidia-crisafulli/" data-orig-file="https://anting.co.uk/wp-content/uploads/2025/02/home-x-credit_-lidia-crisafulli.jpg" data-orig-size="4983,3326" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="HOME X Credit_ Lidia Crisafulli" data-image-description="" data-image-caption="" data-large-file="https://anting.co.uk/wp-content/uploads/2025/02/home-x-credit_-lidia-crisafulli.jpg?w=1024" /></figure>
+<main id="wp--skip-link--target" class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><figure class="alignfull wp-block-post-featured-image"><img width="1024" height="576" src="../wp-content/uploads/2025/02/2-photo-credit_-ian-gallagher.png%3Fw=1024" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="object-fit:cover;" decoding="async" srcset="../wp-content/uploads/2025/02/2-photo-credit_-ian-gallagher.png%3Fw=1024 1024w, ../wp-content/uploads/2025/02/2-photo-credit_-ian-gallagher.png%3Fw=2048 2048w, ../wp-content/uploads/2025/02/2-photo-credit_-ian-gallagher.png%3Fw=150 150w, ../wp-content/uploads/2025/02/2-photo-credit_-ian-gallagher.png%3Fw=300 300w, ../wp-content/uploads/2025/02/2-photo-credit_-ian-gallagher.png%3Fw=768 768w, ../wp-content/uploads/2025/02/2-photo-credit_-ian-gallagher.png%3Fw=1440 1440w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="1989" data-permalink="https://anting.co.uk/can-x-two-temple-place-digital-exhibition-immersive-performance/2-photo-credit_-ian-gallagher/" data-orig-file="https://anting.co.uk/wp-content/uploads/2025/02/2-photo-credit_-ian-gallagher.png" data-orig-size="2560,1440" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="2 photo credit_ Ian Gallagher" data-image-description="" data-image-caption="" data-large-file="https://anting.co.uk/wp-content/uploads/2025/02/2-photo-credit_-ian-gallagher.png?w=1024" /></figure>
 
 <div class="entry-content wp-block-post-content is-layout-constrained wp-container-core-post-content-is-layout-c174671a wp-block-post-content-is-layout-constrained">
-<h2 class="wp-block-heading">HOME X is a live performance meeting cutting edge technology that combines theatre, music, gaming and VR technology created with artists in London and Hong Kong </h2>
+<p class="wp-block-paragraph"></p>
 
 
 
-<p class="wp-block-paragraph">Presented at the <a href="https://www.barbican.org.uk/whats-on/2023/event/kakilang-home-x">London Barbican</a>, York Theatre Royal and Cambridge Junction in 2023, HOME X is co-produced by Kakilang (formerly Chinese Arts Now) and Don&#8217;t Believe in Style and co-commissioned by Cambridge Junction, Oxford Contemporary Music and York Theatre Royal. The work is supported by StoryFutures and The Space, originally commissioned by British Council Hong Kong.</p>
+<h2 class="wp-block-heading">Mixing gaming and 3D technology, this experimental 45 minute production mixes original music, virtual performances and a new script exploring the migrant experience, from the poorest of Chinese sailors who jumped ship in the East End, to the richest of men like William Waldorf Astor</h2>
 
 
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/gFRcMnNxSxM?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>
-</div></figure>
-
-
-
-<p class="wp-block-paragraph">&#8220;In HOME X, we are using technology as a form of artistic expression to create a new way of experiencing and telling stories. The concept was born out of a desire to create a space where audiences could connect with each other and with the performers, regardless of their physical distance. The remote audience actively participates in the game, while the live audience witnesses these different realities intersecting in various ways. We aim to create a powerful and engaging experience that brings people together in a meaningful way.</p>
-
-
-
-<p class="wp-block-paragraph">​In this ever-changing world, our differences can be a source of animosity and separation or a chance for us to grow and create something to be cherished, remembered, and respected. Through learning and understanding ourselves, each other, and the world around us, HOME X aims to inspire us to explore our roots, our sense of home and their relationship with our existence.&#8221;</p>
-
-
-
-<p class="wp-block-paragraph">An-Ting 安婷, Ian Gallagher and Donald Shek (co-creators of HOME X)</p>
+<p class="wp-block-paragraph">Every dollar is a soldier/with money you’re a dragon is set ‘after hours’ in the gallery, twenty audience members, visible to each other as their chosen avatars gather in the lobby and start by following the glowing orb that guides us through the virtual galleries. The production has won&nbsp;<a href="https://digitalculturenetwork.org.uk/awards/2022-digital-storytelling/">Arts Council England’s Digital Cultural Award – Storytelling in 2022</a>.</p>
 
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/wmUHZRyjy2g?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/njWb_SB7RaQ?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>
 </div></figure>
-
-
-
-<h2 class="wp-block-heading">Quotes</h2>
-
-
-
-<p class="wp-block-paragraph"><em>‘An utterly unique experience that astounds with technical marvel as it also reflects on the notions of home and feeling at home…’</em> **** (Reviews Hub)</p>
-
-
-
-<p class="wp-block-paragraph"><em>‘Truly engrossing…like nothing I’ve ever seen…’</em> **** (Salterton Arts Review)</p>
-
-
-
-<p class="wp-block-paragraph"><em>‘Compelling&#8230;incredibly innovative…wonderfully insightful…’</em> ***** (Voice Magazine)</p>
-
-
-
-<p class="wp-block-paragraph"><em>‘HOME X is truly impressive, experimental story-telling to engage the heart and thee brain…’</em> ****1/2 (To Do List)</p>
-
-
-
-<p class="wp-block-paragraph"><em>‘Often beautiful….conveying our relationship with our environment in a distinctive visual language…’</em> *** (The Stage)</p>
 
 
 
@@ -654,17 +614,13 @@ var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s1.wp.com/wp-content/mu-pl
 
 
 
-<p class="wp-block-paragraph"><strong>HOME X is conceived by An-Ting Chang, Ian Gallagher and Donald Shek</strong><br><strong>An-Ting </strong>Director / Composer<br><strong>Ian Gallagher</strong>&nbsp;Creative Technologist<br><strong>Donald Shek</strong>&nbsp;3D Designer<br><strong>Henry Lam&nbsp;</strong>Experience Designer<br><strong>Christine Ting &#8211; Huan 挺歡 Urquhart</strong>&nbsp;Costume Designer<br><strong>Si Rawlinson (UK) and Suen Nam (HK)&nbsp;</strong>Choreographers/Dancers<strong><strong><br>Colette Wing Wing </strong></strong>Lam&nbsp;Soprano<strong><br><strong>Daniel York Loh</strong>&nbsp;</strong>Dramaturg<strong><br><strong>Mia Foo&nbsp;</strong></strong>Actor Gamer <strong><br><strong>David Howard</strong>&nbsp;</strong>Sound Consultant<strong><br><strong>Katrina Man</strong>&nbsp;</strong>Community Producer<strong><br><strong>Sandy Wan&nbsp;</strong></strong>Marketing Manager for Kakilang <strong><br><strong>Apollonia Bauer</strong></strong>&nbsp;UK Administration Manager<strong><br><strong>Hannah Blamire</strong></strong>&nbsp;UK Production Manager<strong><br><strong>Brent Tan&nbsp;</strong>UK </strong>Stage Manager<strong><br><strong>Dino Fung&nbsp;</strong></strong>Hong Kong Director<strong><br><strong>Henry Lam, Fo Liu&nbsp;</strong></strong>Hong Kong Producers<strong><br><strong>Ian Gallagher (lead), Toshi Wong, Logan Lee</strong>&nbsp;</strong>Game Developers</p>
+<p class="wp-block-paragraph">Director &amp; Composer/ An-Ting<br>Creative Technologist/ Ian Gallagher<br>Designer/ Christine 挺歡 Urquhart<br>Writer/ Daniel York Loh<br>Erhu Musician/ Wang Xiao<br>Pipa Musician/ Cheng Yu<br>Exhibition artists/ Chloe Wing, Donald Shek, Jasmin Kent Rodgman, Daniel York Loh / Curators: Rebecca Hone, Jodie Gilliam, Co-produced by Kakilang &amp; Two Temple Place</p>
 
 
 
-<div class="wp-block-buttons is-content-justification-space-between is-layout-flex wp-container-core-buttons-is-layout-2ed8b2ae wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">DIGITAL PROGRAMME</a></div>
-</div>
-
-
-
-<figure class="wp-block-image size-large"><a href="../wp-content/uploads/2025/02/homex-88.jpg"><img data-attachment-id="2031" data-permalink="https://anting.co.uk/home-x/homex-88/" data-orig-file="https://anting.co.uk/wp-content/uploads/2025/02/homex-88.jpg" data-orig-size="6016,4016" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="HomeX-88" data-image-description="" data-image-caption="" data-large-file="https://anting.co.uk/wp-content/uploads/2025/02/homex-88.jpg?w=1024" loading="lazy" width="1024" height="683" src="../wp-content/uploads/2025/02/homex-88.jpg%3Fw=1024" alt="" class="wp-image-2031" srcset="../wp-content/uploads/2025/02/homex-88.jpg%3Fw=1024 1024w, ../wp-content/uploads/2025/02/homex-88.jpg%3Fw=2048 2048w, ../wp-content/uploads/2025/02/homex-88.jpg%3Fw=150 150w, ../wp-content/uploads/2025/02/homex-88.jpg%3Fw=300 300w, ../wp-content/uploads/2025/02/homex-88.jpg%3Fw=768 768w, ../wp-content/uploads/2025/02/homex-88.jpg%3Fw=1440 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/DFSdBuHVtsI?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>
+</div></figure>
 
 
 
@@ -672,24 +628,24 @@ var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s1.wp.com/wp-content/mu-pl
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="../works/index.html">BACK TO WORKS</a></div>
 </div>
 <div id="jp-post-flair" class="sharedaddy sd-like-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer"
-				data-shared="sharing-twitter-1944"
+				data-shared="sharing-twitter-1988"
 				class="share-twitter sd-button share-icon"
 				href="index.html%3Fshare=twitter.html"
 				target="_blank"
-				aria-labelledby="sharing-twitter-1944"
+				aria-labelledby="sharing-twitter-1988"
 				>
-				<span id="sharing-twitter-1944" hidden>Share on X (Opens in new window)</span>
+				<span id="sharing-twitter-1988" hidden>Share on X (Opens in new window)</span>
 				<span>X</span>
 			</a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer"
-				data-shared="sharing-facebook-1944"
+				data-shared="sharing-facebook-1988"
 				class="share-facebook sd-button share-icon"
 				href="index.html%3Fshare=facebook.html"
 				target="_blank"
-				aria-labelledby="sharing-facebook-1944"
+				aria-labelledby="sharing-facebook-1988"
 				>
-				<span id="sharing-facebook-1944" hidden>Share on Facebook (Opens in new window)</span>
+				<span id="sharing-facebook-1988" hidden>Share on Facebook (Opens in new window)</span>
 				<span>Facebook</span>
-			</a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-100046530-1944-69ee02bd65910' data-src='//widgets.wp.com/likes/index.html?ver=20260426#blog_id=100046530&amp;post_id=1944&amp;origin=antingchangdotcom.wordpress.com&amp;obj_id=100046530-1944-69ee02bd65910&amp;domain=anting.co.uk' data-name='like-post-frame-100046530-1944-69ee02bd65910' data-title='Like or Reblog'><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class='loading'>Loading&#8230;</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div></div></main>
+			</a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-100046530-1988-69ee029875b38' data-src='//widgets.wp.com/likes/index.html?ver=20260426#blog_id=100046530&amp;post_id=1988&amp;origin=antingchangdotcom.wordpress.com&amp;obj_id=100046530-1988-69ee029875b38&amp;domain=anting.co.uk' data-name='like-post-frame-100046530-1988-69ee029875b38' data-title='Like or Reblog'><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class='loading'>Loading&#8230;</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div></div></main>
 
 
 
@@ -701,6 +657,11 @@ var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s1.wp.com/wp-content/mu-pl
 
 
 <footer class="site-footer-container wp-block-template-part">
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow" style="padding-top:80px;padding-bottom:30px">
+<p class="has-text-align-center wp-block-paragraph"><a href="https://wordpress.com/?ref=footer_blog" rel="nofollow">Blog at WordPress.com.</a></p>
+</div>
+</div>
 
 
 
@@ -749,12 +710,12 @@ var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s1.wp.com/wp-content/mu-pl
 													>
 							<input type="hidden" name="action" value="subscribe"/>
 							<input type="hidden" name="blog_id" value="100046530"/>
-							<input type="hidden" name="source" value="https://anting.co.uk/home-x/"/>
+							<input type="hidden" name="source" value="https://anting.co.uk/can-x-two-temple-place-digital-exhibition-immersive-performance/"/>
 							<input type="hidden" name="sub-type" value="subscribe-block"/>
 							<input type="hidden" name="app_source" value=""/>
 							<input type="hidden" name="redirect_fragment" value="subscribe-blog"/>
 							<input type="hidden" name="lang" value="en"/>
-							<input type="hidden" id="_wpnonce" name="_wpnonce" value="60a64fe8e6" /><input type="hidden" name="_wp_http_referer" value="/home-x/" /><input type="hidden" name="post_id" value="1944"/>							<button type="submit"
+							<input type="hidden" id="_wpnonce" name="_wpnonce" value="60a64fe8e6" /><input type="hidden" name="_wp_http_referer" value="/can-x-two-temple-place-digital-exhibition-immersive-performance/" /><input type="hidden" name="post_id" value="1988"/>							<button type="submit"
 																	class="wp-block-button__link no-border-radius has-#ffffff-border-color"
 																									style="font-size: 16px;padding: 15px 23px 15px 23px;margin: 0; margin-left: 0px;border-color: #ffffff;border-radius: 0px;border-width: 1px;border-color: #ffffff; border-style: solid;"
 																name="jetpack_subscriptions_widget"
@@ -790,7 +751,7 @@ var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s1.wp.com/wp-content/mu-pl
 
 <li class="wp-social-link wp-social-link-bandcamp wp-block-social-link"><a href="https://anting.bandcamp.com/" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M15.27 17.289 3 17.289 8.73 6.711 21 6.711 15.27 17.289"></path></svg><span class="wp-block-social-link-label screen-reader-text">Bandcamp</span></a></li>
 
-<li class="wp-social-link wp-social-link-mail wp-block-social-link"><a href="mailto:hello&#064;a&#110;ti&#110;g&#046;c&#111;&#046;uk" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M19,5H5c-1.1,0-2,.9-2,2v10c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V7c0-1.1-.9-2-2-2zm.5,12c0,.3-.2.5-.5.5H5c-.3,0-.5-.2-.5-.5V9.8l7.5,5.6,7.5-5.6V17zm0-9.1L12,13.6,4.5,7.9V7c0-.3.2-.5.5-.5h14c.3,0,.5.2.5.5v.9z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Mail</span></a></li>
+<li class="wp-social-link wp-social-link-mail wp-block-social-link"><a href="mailto:he&#108;&#108;o&#064;ant&#105;ng.co&#046;u&#107;" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M19,5H5c-1.1,0-2,.9-2,2v10c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V7c0-1.1-.9-2-2-2zm.5,12c0,.3-.2.5-.5.5H5c-.3,0-.5-.2-.5-.5V9.8l7.5,5.6,7.5-5.6V17zm0-9.1L12,13.6,4.5,7.9V7c0-.3.2-.5.5-.5h14c.3,0,.5.2.5.5v.9z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Mail</span></a></li>
 
 <li class="wp-social-link wp-social-link-soundcloud wp-block-social-link"><a href="https://soundcloud.com/antingpig" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M8.9,16.1L9,14L8.9,9.5c0-0.1,0-0.1-0.1-0.1c0,0-0.1-0.1-0.1-0.1c-0.1,0-0.1,0-0.1,0.1c0,0-0.1,0.1-0.1,0.1L8.3,14l0.1,2.1 c0,0.1,0,0.1,0.1,0.1c0,0,0.1,0.1,0.1,0.1C8.8,16.3,8.9,16.3,8.9,16.1z M11.4,15.9l0.1-1.8L11.4,9c0-0.1,0-0.2-0.1-0.2 c0,0-0.1,0-0.1,0s-0.1,0-0.1,0c-0.1,0-0.1,0.1-0.1,0.2l0,0.1l-0.1,5c0,0,0,0.7,0.1,2v0c0,0.1,0,0.1,0.1,0.1c0.1,0.1,0.1,0.1,0.2,0.1 c0.1,0,0.1,0,0.2-0.1c0.1,0,0.1-0.1,0.1-0.2L11.4,15.9z M2.4,12.9L2.5,14l-0.2,1.1c0,0.1,0,0.1-0.1,0.1c0,0-0.1,0-0.1-0.1L2.1,14 l0.1-1.1C2.2,12.9,2.3,12.9,2.4,12.9C2.3,12.9,2.4,12.9,2.4,12.9z M3.1,12.2L3.3,14l-0.2,1.8c0,0.1,0,0.1-0.1,0.1 c-0.1,0-0.1,0-0.1-0.1L2.8,14L3,12.2C3,12.2,3,12.2,3.1,12.2C3.1,12.2,3.1,12.2,3.1,12.2z M3.9,11.9L4.1,14l-0.2,2.1 c0,0.1,0,0.1-0.1,0.1c-0.1,0-0.1,0-0.1-0.1L3.5,14l0.2-2.1c0-0.1,0-0.1,0.1-0.1C3.9,11.8,3.9,11.8,3.9,11.9z M4.7,11.9L4.9,14 l-0.2,2.1c0,0.1-0.1,0.1-0.1,0.1c-0.1,0-0.1,0-0.1-0.1L4.3,14l0.2-2.2c0-0.1,0-0.1,0.1-0.1C4.7,11.7,4.7,11.8,4.7,11.9z M5.6,12 l0.2,2l-0.2,2.1c0,0.1-0.1,0.1-0.1,0.1c0,0-0.1,0-0.1,0c0,0,0-0.1,0-0.1L5.1,14l0.2-2c0,0,0-0.1,0-0.1s0.1,0,0.1,0 C5.5,11.9,5.5,11.9,5.6,12L5.6,12z M6.4,10.7L6.6,14l-0.2,2.1c0,0,0,0.1,0,0.1c0,0-0.1,0-0.1,0c-0.1,0-0.1-0.1-0.2-0.2L5.9,14 l0.2-3.3c0-0.1,0.1-0.2,0.2-0.2c0,0,0.1,0,0.1,0C6.4,10.7,6.4,10.7,6.4,10.7z M7.2,10l0.2,4.1l-0.2,2.1c0,0,0,0.1,0,0.1 c0,0-0.1,0-0.1,0c-0.1,0-0.2-0.1-0.2-0.2l-0.1-2.1L6.8,10c0-0.1,0.1-0.2,0.2-0.2c0,0,0.1,0,0.1,0S7.2,9.9,7.2,10z M8,9.6L8.2,14 L8,16.1c0,0.1-0.1,0.2-0.2,0.2c-0.1,0-0.2-0.1-0.2-0.2L7.5,14l0.1-4.4c0-0.1,0-0.1,0.1-0.1c0,0,0.1-0.1,0.1-0.1c0.1,0,0.1,0,0.1,0.1 C8,9.6,8,9.6,8,9.6z M11.4,16.1L11.4,16.1L11.4,16.1z M9.7,9.6L9.8,14l-0.1,2.1c0,0.1,0,0.1-0.1,0.2s-0.1,0.1-0.2,0.1 c-0.1,0-0.1,0-0.1-0.1s-0.1-0.1-0.1-0.2L9.2,14l0.1-4.4c0-0.1,0-0.1,0.1-0.2s0.1-0.1,0.2-0.1c0.1,0,0.1,0,0.2,0.1S9.7,9.5,9.7,9.6 L9.7,9.6z M10.6,9.8l0.1,4.3l-0.1,2c0,0.1,0,0.1-0.1,0.2c0,0-0.1,0.1-0.2,0.1c-0.1,0-0.1,0-0.2-0.1c0,0-0.1-0.1-0.1-0.2L10,14 l0.1-4.3c0-0.1,0-0.1,0.1-0.2c0,0,0.1-0.1,0.2-0.1c0.1,0,0.1,0,0.2,0.1S10.6,9.7,10.6,9.8z M12.4,14l-0.1,2c0,0.1,0,0.1-0.1,0.2 c-0.1,0.1-0.1,0.1-0.2,0.1c-0.1,0-0.1,0-0.2-0.1c-0.1-0.1-0.1-0.1-0.1-0.2l-0.1-1l-0.1-1l0.1-5.5v0c0-0.1,0-0.2,0.1-0.2 c0.1,0,0.1-0.1,0.2-0.1c0,0,0.1,0,0.1,0c0.1,0,0.1,0.1,0.1,0.2L12.4,14z M22.1,13.9c0,0.7-0.2,1.3-0.7,1.7c-0.5,0.5-1.1,0.7-1.7,0.7 h-6.8c-0.1,0-0.1,0-0.2-0.1c-0.1-0.1-0.1-0.1-0.1-0.2V8.2c0-0.1,0.1-0.2,0.2-0.3c0.5-0.2,1-0.3,1.6-0.3c1.1,0,2.1,0.4,2.9,1.1 c0.8,0.8,1.3,1.7,1.4,2.8c0.3-0.1,0.6-0.2,1-0.2c0.7,0,1.3,0.2,1.7,0.7C21.8,12.6,22.1,13.2,22.1,13.9L22.1,13.9z"></path></svg><span class="wp-block-social-link-label screen-reader-text">SoundCloud</span></a></li>
 
@@ -868,168 +829,9 @@ var WPGroHo = {"my_hash":""};
 
 		<div style="display:none">
 	</div>
-		<div id="jp-carousel-loading-overlay">
-			<div id="jp-carousel-loading-wrapper">
-				<span id="jp-carousel-library-loading">&nbsp;</span>
-			</div>
-		</div>
-		<div class="jp-carousel-overlay" style="display: none;">
 
-		<div class="jp-carousel-container">
-			<!-- The Carousel Swiper -->
-			<div
-				class="jp-carousel-wrap swiper jp-carousel-swiper-container jp-carousel-transitions"
-				itemscope
-				itemtype="https://schema.org/ImageGallery">
-				<div class="jp-carousel swiper-wrapper"></div>
-				<div class="jp-swiper-button-prev swiper-button-prev">
-					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-						<mask id="maskPrev" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="9" height="12">
-							<path d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill="white"/>
-						</mask>
-						<g mask="url(#maskPrev)">
-							<rect x="0.579102" width="23.8823" height="24" fill="#FFFFFF"/>
-						</g>
-					</svg>
-				</div>
-				<div class="jp-swiper-button-next swiper-button-next">
-					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-						<mask id="maskNext" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="8" height="12">
-							<path d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill="white"/>
-						</mask>
-						<g mask="url(#maskNext)">
-							<rect x="0.34375" width="23.8822" height="24" fill="#FFFFFF"/>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<!-- The main close buton -->
-			<div class="jp-carousel-close-hint">
-				<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-					<mask id="maskClose" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="5" width="15" height="14">
-						<path d="M19.3166 6.41L17.9135 5L12.3509 10.59L6.78834 5L5.38525 6.41L10.9478 12L5.38525 17.59L6.78834 19L12.3509 13.41L17.9135 19L19.3166 17.59L13.754 12L19.3166 6.41Z" fill="white"/>
-					</mask>
-					<g mask="url(#maskClose)">
-						<rect x="0.409668" width="23.8823" height="24" fill="#FFFFFF"/>
-					</g>
-				</svg>
-			</div>
-			<!-- Image info, comments and meta -->
-			<div class="jp-carousel-info">
-				<div class="jp-carousel-info-footer">
-					<div class="jp-carousel-pagination-container">
-						<div class="jp-swiper-pagination swiper-pagination"></div>
-						<div class="jp-carousel-pagination"></div>
-					</div>
-					<div class="jp-carousel-photo-title-container">
-						<h2 class="jp-carousel-photo-caption"></h2>
-					</div>
-					<div class="jp-carousel-photo-icons-container">
-						<a href="index.html#" class="jp-carousel-icon-btn jp-carousel-icon-info" aria-label="Toggle photo metadata visibility">
-							<span class="jp-carousel-icon">
-								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-									<mask id="maskInfo" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
-										<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7537 2C7.26076 2 2.80273 6.48 2.80273 12C2.80273 17.52 7.26076 22 12.7537 22C18.2466 22 22.7046 17.52 22.7046 12C22.7046 6.48 18.2466 2 12.7537 2ZM11.7586 7V9H13.7488V7H11.7586ZM11.7586 11V17H13.7488V11H11.7586ZM4.79292 12C4.79292 16.41 8.36531 20 12.7537 20C17.142 20 20.7144 16.41 20.7144 12C20.7144 7.59 17.142 4 12.7537 4C8.36531 4 4.79292 7.59 4.79292 12Z" fill="white"/>
-									</mask>
-									<g mask="url(#maskInfo)">
-										<rect x="0.8125" width="23.8823" height="24" fill="#FFFFFF"/>
-									</g>
-								</svg>
-							</span>
-						</a>
-												<a href="index.html#" class="jp-carousel-icon-btn jp-carousel-icon-comments" aria-label="Toggle photo comments visibility">
-							<span class="jp-carousel-icon">
-								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-									<mask id="maskComments" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
-										<path fill-rule="evenodd" clip-rule="evenodd" d="M4.3271 2H20.2486C21.3432 2 22.2388 2.9 22.2388 4V16C22.2388 17.1 21.3432 18 20.2486 18H6.31729L2.33691 22V4C2.33691 2.9 3.2325 2 4.3271 2ZM6.31729 16H20.2486V4H4.3271V18L6.31729 16Z" fill="white"/>
-									</mask>
-									<g mask="url(#maskComments)">
-										<rect x="0.34668" width="23.8823" height="24" fill="#FFFFFF"/>
-									</g>
-								</svg>
-
-								<span class="jp-carousel-has-comments-indicator" aria-label="This image has comments."></span>
-							</span>
-						</a>
-											</div>
-				</div>
-				<div class="jp-carousel-info-extra">
-					<div class="jp-carousel-info-content-wrapper">
-						<div class="jp-carousel-photo-title-container">
-							<h2 class="jp-carousel-photo-title"></h2>
-						</div>
-						<div class="jp-carousel-comments-wrapper">
-															<div id="jp-carousel-comments-loading">
-									<span>Loading Comments...</span>
-								</div>
-								<div class="jp-carousel-comments"></div>
-								<div id="jp-carousel-comment-form-container">
-									<span id="jp-carousel-comment-form-spinner">&nbsp;</span>
-									<div id="jp-carousel-comment-post-results"></div>
-																														<form id="jp-carousel-comment-form">
-												<label for="jp-carousel-comment-form-comment-field" class="screen-reader-text">Write a Comment...</label>
-												<textarea
-													name="comment"
-													class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
-													id="jp-carousel-comment-form-comment-field"
-													placeholder="Write a Comment..."
-												></textarea>
-												<div id="jp-carousel-comment-form-submit-and-info-wrapper">
-													<div id="jp-carousel-comment-form-commenting-as">
-																													<fieldset>
-																<label for="jp-carousel-comment-form-email-field">Email (Required)</label>
-																<input type="text" name="email" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-email-field" />
-															</fieldset>
-															<fieldset>
-																<label for="jp-carousel-comment-form-author-field">Name (Required)</label>
-																<input type="text" name="author" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-author-field" />
-															</fieldset>
-															<fieldset>
-																<label for="jp-carousel-comment-form-url-field">Website</label>
-																<input type="text" name="url" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-url-field" />
-															</fieldset>
-																											</div>
-													<input
-														type="submit"
-														name="submit"
-														class="jp-carousel-comment-form-button"
-														id="jp-carousel-comment-form-button-submit"
-														value="Post Comment" />
-												</div>
-											</form>
-																											</div>
-													</div>
-						<div class="jp-carousel-image-meta">
-							<div class="jp-carousel-title-and-caption">
-								<div class="jp-carousel-photo-info">
-									<h3 class="jp-carousel-caption" itemprop="caption description"></h3>
-								</div>
-
-								<div class="jp-carousel-photo-description"></div>
-							</div>
-							<ul class="jp-carousel-image-exif" style="display: none;"></ul>
-							<a class="jp-carousel-image-download" href="index.html#" target="_blank" style="display: none;">
-								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-									<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="19" height="18">
-										<path fill-rule="evenodd" clip-rule="evenodd" d="M5.84615 5V19H19.7775V12H21.7677V19C21.7677 20.1 20.8721 21 19.7775 21H5.84615C4.74159 21 3.85596 20.1 3.85596 19V5C3.85596 3.9 4.74159 3 5.84615 3H12.8118V5H5.84615ZM14.802 5V3H21.7677V10H19.7775V6.41L9.99569 16.24L8.59261 14.83L18.3744 5H14.802Z" fill="white"/>
-									</mask>
-									<g mask="url(#mask0)">
-										<rect x="0.870605" width="23.8823" height="24" fill="#FFFFFF"/>
-									</g>
-								</svg>
-								<span class="jp-carousel-download-text"></span>
-							</a>
-							<div class="jp-carousel-image-map" style="display: none;"></div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		</div>
-		
 	<script type="text/javascript">
-		window.WPCOM_sharing_counts = {"https://anting.co.uk/home-x/":1944};
+		window.WPCOM_sharing_counts = {"https://anting.co.uk/can-x-two-temple-place-digital-exhibition-immersive-performance/":1988};
 	</script>
 						<div id="actionbar" dir="ltr" style="display: none;"
 			class="actnbr-pub-attar actnbr-has-follow actnbr-has-actions">
@@ -1058,7 +860,7 @@ var WPGroHo = {"my_hash":""};
 										</div>
 										<input type="hidden" name="action" value="subscribe" />
 										<input type="hidden" name="blog_id" value="100046530" />
-										<input type="hidden" name="source" value="https://anting.co.uk/home-x/" />
+										<input type="hidden" name="source" value="https://anting.co.uk/can-x-two-temple-place-digital-exhibition-immersive-performance/" />
 										<input type="hidden" name="sub-type" value="actionbar-follow" />
 										<input type="hidden" id="_wpnonce" name="_wpnonce" value="60a64fe8e6" />										<div class="actnbr-button-wrap">
 											<button type="submit" value="Sign me up">
@@ -1067,7 +869,7 @@ var WPGroHo = {"my_hash":""};
 									</form>
 									<li class="actnbr-login-nudge">
 										<div>
-											Already have a WordPress.com account? <a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fanting.co.uk%252Fhome-x%252F">Log in now.</a>										</div>
+											Already have a WordPress.com account? <a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fanting.co.uk%252Fcan-x-two-temple-place-digital-exhibition-immersive-performance%252F">Log in now.</a>										</div>
 									</li>
 								</ul>
 															</div>
@@ -1098,19 +900,19 @@ var WPGroHo = {"my_hash":""};
 		</a>
 								</li>
 														<li class="actnbr-signup"><a href="https://wordpress.com/start/">Sign up</a></li>
-							<li class="actnbr-login"><a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fanting.co.uk%252Fhome-x%252F">Log in</a></li>
+							<li class="actnbr-login"><a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fanting.co.uk%252Fcan-x-two-temple-place-digital-exhibition-immersive-performance%252F">Log in</a></li>
 																<li class="actnbr-shortlink">
-										<a href="https://wp.me/P6LMFI-vm">
+										<a href="https://wp.me/P6LMFI-w4">
 											<span class="actnbr-shortlink__text">Copy shortlink</span>
 											<span class="actnbr-shortlink__icon"><svg class="gridicon gridicons-checkmark" height="16" width="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M9 19.414l-6.707-6.707 1.414-1.414L9 16.586 20.293 5.293l1.414 1.414"/></g></svg></span>
 										</a>
 									</li>
 																<li class="flb-report">
-									<a href="https://wordpress.com/abuse/?report_url=https://anting.co.uk/home-x/" target="_blank" rel="noopener noreferrer">
+									<a href="https://wordpress.com/abuse/?report_url=https://anting.co.uk/can-x-two-temple-place-digital-exhibition-immersive-performance/" target="_blank" rel="noopener noreferrer">
 										Report this content									</a>
 								</li>
 															<li class="actnbr-reader">
-									<a href="https://wordpress.com/reader/blogs/100046530/posts/1944">
+									<a href="https://wordpress.com/reader/blogs/100046530/posts/1988">
 										View post in Reader									</a>
 								</li>
 															<li class="actnbr-subs">
@@ -1138,12 +940,7 @@ window.addEventListener( "DOMContentLoaded", function( event ) {
 } );
 </script>
 
-	<script id="jetpack-carousel-js-extra">
-var jetpackSwiperLibraryPath = {"url":"/wp-content/mu-plugins/jetpack-plugin/moon/_inc/blocks/swiper.js"};
-var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https://anting.co.uk/wp-admin/admin-ajax.php","nonce":"3055f2e595","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","image_label":"Open image in full-screen.","download_original":"View full size \u003Cspan class=\"photo-size\"\u003E{0}\u003Cspan class=\"photo-size-times\"\u003E\u00d7\u003C/span\u003E{1}\u003C/span\u003E","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https://antingchangdotcom.wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Fanting.co.uk%2Fhome-x%2F","blog_id":"100046530","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"stats_query_args":"blog=100046530&v=wpcom&tz=0&user_id=0&subd=antingchangdotcom","is_public":"1"};
-//# sourceURL=jetpack-carousel-js-extra
-</script>
-<script crossorigin='anonymous' type='text/javascript'  src='../_static/index.html%3F%3F%252Fwp-content%252Fmu-plugins%252Flikes%252Fqueuehandler.js,%252Fwp-content%252Fmu-plugins%252Fjetpack-plugin%252Fmoon%252F_inc%252Fbuild%252Fcarousel%252Fjetpack-carousel.min.js%3Fm=1775165034j'></script>
+	<script crossorigin='anonymous' type='text/javascript'  src='../wp-content/mu-plugins/likes/queuehandler.js%3Fm=1741961244i'></script>
 <script id="wp-dom-ready-js" src="https://s1.wp.com/wp-content/plugins/gutenberg-core/v22.9.0/build/scripts/dom-ready/index.min.js?m=1775747584i&#038;ver=a06281ae5cf5500e9317"></script>
 <script crossorigin='anonymous' type='text/javascript'  src='../wp-includes/js/dist/vendor/wp-polyfill.min.js%3Fm=1775575011i'></script>
 <script data-wp-strategy="defer" defer id="jetpack-block-subscriptions-js" src="../wp-content/mu-plugins/jetpack-plugin/moon/_inc/blocks/subscriptions/view.js%3Fm=1773958385i&amp;minify=false&amp;ver=15.8-a.6"></script>
@@ -1151,16 +948,11 @@ var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_
 var comment_like_text = {"loading":"Loading...","swipeUrl":"https://s2.wp.com/wp-content/mu-plugins/comment-likes/js/lib/swipe.js?m=1382645497i&amp;ver=20131008"};
 //# sourceURL=comment-like-js-extra
 </script>
-<script id="coblocks-loader-js-extra">
-var wpcom_coblocks_js = {"coblocks_masonry_js":"https://s2.wp.com/wp-content/plugins/coblocks/2.18.1-simple-rev.4/dist/js/coblocks-masonry.min.js?m=1681832297i","coblocks_lightbox_js":"https://s2.wp.com/wp-content/plugins/coblocks/2.18.1-simple-rev.4/dist/js/coblocks-lightbox.min.js?m=1681832297i","jquery_core_js":"/wp-includes/js/jquery/jquery.min.js","jquery_migrate_js":"/wp-includes/js/jquery/jquery-migrate.min.js","masonry_js":"/wp-includes/js/masonry.min.js","imagesloaded_js":"/wp-includes/js/imagesloaded.min.js"};
-var coblocksLigthboxData = {"closeLabel":"Close Gallery","leftLabel":"Previous","rightLabel":"Next"};
-//# sourceURL=coblocks-loader-js-extra
-</script>
 <script id="sharing-js-js-extra">
 var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
 //# sourceURL=sharing-js-js-extra
 </script>
-<script crossorigin='anonymous' type='text/javascript'  src='../_static/index.html%3F%3F-eJx9jssKwjAQRX%252FIZIhoHwvxUyRNQp00LzKJxb+32IKlC3dzL3MuB+bEVAzFhAK+suTqiIFARe+XijmcDIE9FNzSCXbgjxpcVBPBmYuOC0bokzMsmxe%252FgEYq69L6xFyU2mTuMRz39iIyx0rGsTktCof4h7OmJKmmLYOPMcADg4KhotNAT5mNllq%252FvyeGcfO4+5toG9H1fXtt7AeQz2kg'></script>
+<script crossorigin='anonymous' type='text/javascript'  src='../_static/index.html%3F%3F-eJxtjEEKgzAURC%252FUOFaIrsSjSJoE+2P+T2gSpLevlK6kuzcP5uHIyiapXiq4qRzbRlJgE%252FOpVKTdF4SL6EK54f8x+JqN3X8bnJJgJbF4NIoO5Wle3hnn3l8k2TomOXsLz%252FdJ674fh0GHD70VNv4='></script>
 <script id="sharing-js-js-after">
 var windowOpen;
 			( function () {
@@ -1286,9 +1078,9 @@ _tkq = window._tkq || [];
 _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'100046530','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
 		// Prevent sending pageview tracking from WP-Admin pages.
-		_stq.push(['view', {'blog':'100046530','v':'wpcom','tz':'0','user_id':'0','post':'1944','subd':'antingchangdotcom'}]);
-		_stq.push(['extra', {'crypt':'UE5tW3cvZGRWb1BGLWtdRy1TVkZBck9+NnJZSkQ9fnJuJXN2cmR2K24/NzhMUTM/PUdxUjNvYTRTUnFYW3AmXUF8RmFaV0E0NmZPTV9GQj18YjZiLi1waHhhUlkrNGRQaHhtTlRTaHJ6SkFda2FYRG1UM0tfPzNRNm9oMSwxJnF8VU1ULFV+YnV3Z21kJmdaTEg5Uk9jN041YTVTSmVnUnZQUXovNkR4SmZBejk='}]);
-_stq.push([ 'clickTrackerInit', '100046530', '1944' ]);
+		_stq.push(['view', {'blog':'100046530','v':'wpcom','tz':'0','user_id':'0','post':'1988','subd':'antingchangdotcom'}]);
+		_stq.push(['extra', {'crypt':'UE5tW3cvZGRWb1BGLWtdRy1TVkZBck9+NnJZSkQ9fnJuJXN2cmR2K24/NzhMUTM/PUdxUjNvYTRTUnFYW3BqeXRxZ2UvUGgwNDJIUzFqbzB5STMmYW1ld0FIemNNW2xuJTZvWEIvOHhJdWg3NnVsNy1WeGJxbGhdMERycTBDR3pJWFRWTENMSWF+cCsmQ0hTMjUrYmV0djF1WUgvY09XeXN0U3xTaSxreC49USY='}]);
+_stq.push([ 'clickTrackerInit', '100046530', '1988' ]);
 </script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
 <meta id="bilmur" property="bilmur:data" content="" data-provider="wordpress.com" data-service="simple" data-site-tz="Etc/GMT-0" data-custom-props="{&quot;enq_wp-polyfill&quot;:&quot;1&quot;,&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;pub\/attar&quot;,&quot;wptheme_is_block&quot;:&quot;1&quot;}"  >
