@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>An-Ting 安婷</ShortName>
+	<Description>Search An-Ting 安婷 - musician, composer, multidisciplinary artist</Description>
+	<Contact>help@wordpress.com</Contact>
+	<Url type="application/atom+xml" template="https://anting.co.uk/?s={searchTerms}&amp;feed=atom" />
+	<Url type="rss+xml" template="https://anting.co.uk/?s={searchTerms}&amp;feed=rss2" />
+	<Url type="text/html" template="https://anting.co.uk/?s={searchTerms}" method="GET" />
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://anting.co.uk/osd.xml" />
+	<LongName>An-Ting 安婷</LongName>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://anting.co.uk/wp-content/uploads/2022/05/logo-black.png?w=14</Image>
+	<Image height="64" width="64" type="image/png">https://anting.co.uk/wp-content/uploads/2022/05/logo-black.png?w=58</Image>
+	<Query role="example" searchTerms="photography" />
+	<Tags>new-music grasslands ecosystems nature biodiversity native-plants conservation prairie mongolia nomad</Tags>
+	<Developer>Automattic</Developer>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>en</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>https://anting.co.uk</moz:SearchForm>
+</OpenSearchDescription>
