@@ -17,26 +17,80 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&amp;display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet" />
 
 <style>
   *, *::before, *::after { box-sizing: border-box; }
   html, body { margin: 0; padding: 0; }
   body {
-    font-family: 'Montserrat', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+    font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
     background: #fefefe;
     color: #111;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
     min-height: 100vh;
+  }
+  .topbar {
     display: flex;
-    flex-direction: column;
     align-items: center;
-    padding: 56px 20px 40px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 16px 32px;
+    padding: min(30px, 5vw) min(30px, 5vw);
+  }
+  .topbar .brand {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .topbar .brand a {
+    display: inline-block;
+    line-height: 0;
+  }
+  .topbar .brand img {
+    display: block;
+    height: 64px;
+    width: auto;
+  }
+  .topbar .brand-tagline {
+    margin: 0;
+    font-size: 0.875rem;
+    color: #1a1a1a;
+    letter-spacing: 0.01em;
+  }
+  .site-nav ul {
+    display: flex;
+    gap: 32px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .site-nav a {
+    text-decoration: none;
+    color: #111;
+    font-size: 0.95rem;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+  }
+  .site-nav a:hover,
+  .site-nav a:focus-visible {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    outline: none;
+  }
+  .site-nav .nav-chevron {
+    margin-left: 6px;
+    vertical-align: middle;
+  }
+  @media (max-width: 768px) {
+    .topbar { padding: 20px 24px; gap: 14px; }
+    .site-nav ul { gap: 18px; flex-wrap: wrap; }
   }
   .container {
     width: 100%;
     max-width: 480px;
+    margin: 32px auto 0;
+    padding: 0 20px 40px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -186,6 +240,23 @@ src="https://www.facebook.com/tr?id=881831814871621&ev=PageView&noscript=1"
 </script>
 </head>
 <body>
+<header class="topbar">
+  <div class="brand">
+    <a href="/" rel="home" aria-label="An-Ting 安婷 — home">
+      <img src="/wp-content/uploads/2022/05/logo-black.png" alt="An-Ting 安婷" width="64" height="71" />
+    </a>
+    <p class="brand-tagline">electronic musician &amp; composer</p>
+  </div>
+  <nav class="site-nav" aria-label="Main">
+    <ul>
+      <li><a href="/about/about/">About<svg class="nav-chevron" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M1.5 4L6 8L10.5 4" stroke="currentColor" stroke-width="1.5"></path></svg></a></li>
+      <li><a href="/works/">Works</a></li>
+      <li><a href="https://anting.bandcamp.com/music" target="_blank" rel="noopener">Releases</a></li>
+      <li><a href="/concert-schedule/">Live</a></li>
+      <li><a href="/contact/">Contact</a></li>
+    </ul>
+  </nav>
+</header>
 <main class="container">
   <img class="avatar" src="/wp-content/uploads/2024/09/at-credit-joe-mannion-square.png" alt="An-Ting 安婷, photographed by Joe Mannion" />
   <h1 class="name">An-Ting 安婷</h1>
